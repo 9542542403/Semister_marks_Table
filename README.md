@@ -14,6 +14,16 @@ th, td {
 th {
   text-align: left;
 }
+  #t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
   
 </style>
 </head>
