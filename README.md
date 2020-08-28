@@ -64,7 +64,7 @@ th {
     <td>100</td>
   </tr>
    <tr>
-    <td>Princhiples of Communications</td>
+    <td>Principles of Communications</td>
     <td>90</td>
     <td>100</td>
   </tr>
