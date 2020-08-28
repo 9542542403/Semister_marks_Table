@@ -34,25 +34,41 @@ th {
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Subjects</th>
+    <th>Marks</th> 
+    <th>Total</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Computer Networks</td>
+    <td>87</td>
+    <td>100</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Linux Programming</td>
+    <td>88</td>
+    <td>100</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Software Engineering</td>
+    <td>92</td>
+    <td>100</td>
   </tr>
+  <tr>
+    <td>Data Mining and Warehousing</td>
+    <td>91</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Automata and Compile Design</td>
+    <td>93</td>
+    <td>100</td>
+  </tr>
+   <tr>
+    <td>Princhiples of Communications</td>
+    <td>90</td>
+    <td>100</td>
+  </tr>
+  
 </table>
 
 </body>
