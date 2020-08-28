@@ -14,10 +14,7 @@ th, td {
 th {
   text-align: left;
 }
-  {
-  width: 100%;    
-  background-color: #f1f1c1;
-}
+  
 </style>
 </head>
 <body>
